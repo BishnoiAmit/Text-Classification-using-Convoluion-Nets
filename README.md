@@ -1,4 +1,4 @@
-# Text-Classification-using-Convoluion-Nets
+# Text-Classification-using-Convolution-Nets
 Sequence based synthetic data is used to show convolution neural nets in action.
 
 This is the source code which you can refer while going through the blog post. (http://xplordat.com/2019/01/30/sequence-based-text-classification-with-convolution-nets/)
